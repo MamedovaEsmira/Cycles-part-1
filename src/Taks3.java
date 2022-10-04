@@ -1,0 +1,2 @@
+public class Taks3 {
+}
