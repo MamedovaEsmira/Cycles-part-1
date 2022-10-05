@@ -9,7 +9,7 @@ public class Taks3 {
         }
             System.out.println("Задача2");
             int Salary = 29000;
-            int General = 0;
+            double General =0;
             for (int i = 1; i <= 12; i++) {
                 General = General + General / 100;
                 General = General + Salary;
